@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	rosch := "Penis"
+	rosch := "Denis"
 	greet := "Hello,"
 
 	fmt.Println(greet, rosch)
