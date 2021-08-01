@@ -1,3 +1,3 @@
-module github.com/ROSHCH/supreme-journey/hello-world
+module github.com/ROSHCH/supreme-journey
 
 go 1.16
